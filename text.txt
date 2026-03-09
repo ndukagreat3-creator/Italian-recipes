@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Italian Homemade Recipe Book | Nataly Ospina</title>
+<style>
+body{font-family:Arial, sans-serif;margin:0;background:#f6f6f6;color:#333}
+header{background:#b22222;color:white;padding:25px;text-align:center}
+header h1{margin:0}
+nav{background:#ffffff;padding:12px;text-align:center;border-bottom:1px solid #ddd}
+nav a{margin:0 15px;text-decoration:none;color:#b22222;font-weight:bold}
+.container{max-width:1000px;margin:auto;padding:25px}
+.recipe{background:white;margin-bottom:30px;padding:20px;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,0.1)}
+.recipe img{width:100%;border-radius:10px;margin-top:10px}
+h2{color:#b22222}
+footer{background:#222;color:white;text-align:center;padding:25px;margin-top:40px}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Italian Homemade Recipe Book</h1>
+<p>Learn to cook authentic Italian meals at home</p>
+<p><strong>Author: Nataly Ospina</strong></p>
+</header>
+
+<nav>
+<a href="#pasta">Pasta</a>
+<a href="#pizza">Pizza</a>
+<a href="#meals">Main Meals</a>
+<a href="#desserts">Desserts</a>
+</nav>
+
+<div class="container">
+
+<div class="recipe" id="pasta">
+<h2>Spaghetti Carbonara</h2>
+<p>A creamy Roman pasta made with eggs, cheese, pancetta and pepper.</p>
+<img src="https://images.unsplash.com/photo-1603133872878-684f208fb84b" alt="Spaghetti Carbonara">
+</div>
+
+<div class="recipe">
+<h2>Fettuccine Alfredo</h2>
+<p>Rich pasta tossed in butter, cream and parmesan cheese.</p>
+<img src="https://images.unsplash.com/photo-1645112411341-6c4fd023714a" alt="Fettuccine Alfredo">
+</div>
+
+<div class="recipe">
+<h2>Lasagna</h2>
+<p>Layers of pasta sheets with beef, tomato sauce and melted cheese.</p>
+<img src="https://images.unsplash.com/photo-1619895092538-128341789043" alt="Lasagna">
+</div>
+
+<div class="recipe">
+<h2>Penne Arrabbiata</h2>
+<p>Penne pasta in a spicy garlic tomato sauce.</p>
+<img src="https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9" alt="Penne Arrabbiata">
+</div>
+
+<div class="recipe" id="pizza">
+<h2>Margherita Pizza</h2>
+<p>Classic pizza topped with tomato sauce, mozzarella and basil.</p>
+<img src="https://images.unsplash.com/photo-1601924928376-0a3b0c3d8f3a" alt="Margherita Pizza">
+</div>
+
+<div class="recipe">
+<h2>Pepperoni Pizza</h2>
+<p>A favorite pizza topped with mozzarella and pepperoni slices.</p>
+<img src="https://images.unsplash.com/photo-1594007654729-407eedc4be65" alt="Pepperoni Pizza">
+</div>
+
+<div class="recipe" id="meals">
+<h2>Chicken Parmesan</h2>
+<p>Breaded chicken topped with marinara sauce and melted cheese.</p>
+<img src="https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8" alt="Chicken Parmesan">
+</div>
+
+<div class="recipe">
+<h2>Italian Meatballs</h2>
+<p>Juicy beef meatballs cooked in rich tomato sauce.</p>
+<img src="https://images.unsplash.com/photo-1604908176997-4317c2b5f4e0" alt="Italian Meatballs">
+</div>
+
+<div class="recipe">
+<h2>Risotto</h2>
+<p>Creamy Italian rice dish slowly cooked with broth and cheese.</p>
+<img src="https://images.unsplash.com/photo-1633436375795-12b3b3393f3e" alt="Risotto">
+</div>
+
+<div class="recipe">
+<h2>Caprese Salad</h2>
+<p>Fresh tomatoes, mozzarella and basil with olive oil.</p>
+<img src="https://images.unsplash.com/photo-1604908812015-3c1b9b8c9c2d" alt="Caprese Salad">
+</div>
+
+<div class="recipe" id="desserts">
+<h2>Tiramisu</h2>
+<p>Famous Italian dessert made with coffee soaked ladyfingers and mascarpone cream.</p>
+<img src="https://images.unsplash.com/photo-1571877227200-a0d98ea607e9" alt="Tiramisu">
+</div>
+
+<div class="recipe">
+<h2>Panna Cotta</h2>
+<p>Smooth vanilla cream dessert served with berry sauce.</p>
+<img src="https://images.unsplash.com/photo-1488477181946-6428a0291777" alt="Panna Cotta">
+</div>
+
+<div class="recipe">
+<h2>Italian Cannoli</h2>
+<p>Crispy pastry shells filled with sweet ricotta cream.</p>
+<img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092" alt="Cannoli">
+</div>
+
+<div class="recipe">
+<h2>Gelato</h2>
+<p>Italian style ice cream that is rich and smooth.</p>
+<img src="https://images.unsplash.com/photo-1497034825429-c343d7c6a68f" alt="Gelato">
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 Italian Homemade Recipe Book</p>
+<p>Written by Nataly Ospina</p>
+</footer>
+
+</body>
+</html>
